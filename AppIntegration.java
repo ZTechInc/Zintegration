@@ -1,3 +1,6 @@
+String packageName = "com.zervlife";
+String className = "com.zervlife.ZervSplash";
+
 try{
     Intent intent = new Intent(Intent.ACTION_MAIN);
     intent.addCategory(Intent.CATEGORY_LAUNCHER);
